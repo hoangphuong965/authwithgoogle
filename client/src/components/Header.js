@@ -28,7 +28,7 @@ class Header extends Component {
         <Navbar bg='primary' expand='lg' variant='dark' collapseOnSelect>
           <Container>
             <Link to={"/"} style={{ textDecoration: "none" }}>
-              <Navbar.Brand>Imitate Google Form</Navbar.Brand>
+              <Navbar.Brand>Auth Google</Navbar.Brand>
             </Link>
             <Navbar.Toggle aria-controls='basic-navbar-nav' />
             <Navbar.Collapse id='basic-navbar-nav'>
